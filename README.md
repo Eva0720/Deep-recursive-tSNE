@@ -7,6 +7,6 @@ Run "main_XXX.py" file to start training. (The postfix indiates the dataset name
 
 Define a storage location before training to save models and visualization results.
 
-Use "test&evaluate.py" to directly generate embeddings with trained model given in "result" folders.
+Use "test&evaluate.py" to directly generate embeddings with trained model given in "result" folders (find in my releases).
 
 Please cite paper "Deep Recursive Embedding for High-Dimensional Data" if the code is helpful for your work.
